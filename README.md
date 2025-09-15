@@ -1,4 +1,19 @@
+<h1 align="center">Hi 👋, I'm Aditya Kumar</h1>
+<h3 align="center">A passionate full stack developer from India</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=adityawitha&label=Profile%20views&color=0e75b6&style=flat" alt="adityawitha" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=adityawitha" alt="adityawitha" /></a> </p>
+
+<p align="left"> <a href="https://twitter.com/adityak45378762" target="blank"><img src="https://img.shields.io/twitter/follow/adityak45378762?logo=twitter&style=for-the-badge" alt="adityak45378762" /></a> </p>
+
+- 🔭 I’m currently working on [Dezinova](http://dezinova2025.netlify.app)
+
+- 🌱 I’m currently learning **DSA**
+
+- 💬 Ask me about **java,mern**
+
+- 📫 How to reach me **adityakumar2655@gmail.com**
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/aadihhhtyaa) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/aditya-kumar-892099293) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/ GheeWalaLitti u/Organic-Aditya) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Adityak45378762) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:adityakumar2655@gmail.com) 
 
