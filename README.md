@@ -1,4 +1,4 @@
-# Satyam Goyal&nbsp;<img src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Mario_Hello_Big.gif" width="30px">
+# Aditya Kumar&nbsp;<img src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Mario_Hello_Big.gif" width="30px">
 
 
 <!-- 
@@ -86,4 +86,4 @@
 
 
 
-## ⭐️ From [SatYu26](https://github.com/SatYu26)
+## ⭐️ From (https://github.com/AdityawithA)
